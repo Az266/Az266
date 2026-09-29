@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, Azia here! 👋
 
-<!--
-**Az266/Az266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Graduate | Data**
 
-Here are some ideas to get you started:
+Interested in using data and technology to solve problems, uncover insights and build practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I hold a **2:1 BSc (Hons) in Computer Science** and I’m seeking graduate opportunities in **data and software**.
+
+I work with **Python and SQL** on projects involving databases, APIs and data processing. I’m currently studying towards **CompTIA Data+** while continuing to strengthen my Python and SQL skills.
+
+I’m keen to apply my technical skills to **real-world problems** and continue developing within the technology industry.
+
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/azia-a-b9b0a2311)
+
+---
+
+## Tech Stack
+
+**Languages:** Python, SQL  
+**Development:** Flask, REST APIs, HTML, CSS  
+**Databases:** MySQL  
+**Tools:** Git, GitHub, Jira, VS Code  
+
+---
