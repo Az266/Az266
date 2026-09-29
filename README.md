@@ -14,8 +14,7 @@ I work with **Python and SQL** on projects involving databases, APIs and data pr
 
 I’m keen to apply my technical skills to **real-world problems** and continue developing within the technology industry.
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/azia-a-b9b0a2311)
-
+<!-- **Connect with me:** [LinkedIn](https://www.linkedin.com/in/azia-a-b9b0a2311) -->
 ---
 
 ## Tech Stack
